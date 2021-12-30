@@ -1,0 +1,9 @@
+svg{
+	width: 180px;
+	height: 180px;
+	/*border: 1px solid red;*/
+}
+.second,.minuit,.hour{
+	transform-origin: 90px;
+	transform: rotate(0deg);
+}
